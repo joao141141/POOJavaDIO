@@ -4,6 +4,7 @@ public class Aluno {
 
     private String nome;
     private int idade;
+    private String sexo;
 
     public void setNome(String newNome) {
         this.nome = newNome;
@@ -19,5 +20,13 @@ public class Aluno {
 
     public String getNome() {
         return this.nome;
+    }
+
+    public void setSexo(String newSexo) {
+        this.sexo = newSexo;
+    }
+
+    public String getSexo() {
+        return this.sexo;
     }
 }
