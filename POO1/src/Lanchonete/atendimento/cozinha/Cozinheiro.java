@@ -10,7 +10,7 @@ public class Cozinheiro {
     public void adicionarLancheNoBalcao() {
         System.out.println("ADICIONANDO LANCHE NATURAL HAMBÚRGUER NO BALCÃO");
     }
-    //pode ser default
+    //pode ser padrão7
 
     public void adicionarSucoNoBalcao() {
         System.out.println("ADICIONANDO SUCO NO BALCÃO");
